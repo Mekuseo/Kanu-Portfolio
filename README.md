@@ -6,7 +6,7 @@ MY Portfolio with Bootstrap
 
 # My Portfolio Link on Github Page:
 
-https://mekuseo.github.io/Portfolio-with-Bootstrap/
+[https://mekuseo.github.io/Portfolio-with-Bootstrap/](https://mekuseo.github.io/MyPortfolio/)
 
 ## Built With
 
